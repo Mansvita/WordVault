@@ -1,9 +1,3 @@
-//
-//  OnboardingVC.swift
-//  WordVault
-//
-//  Created by Mac on 10/06/23.
-//
 
 import UIKit
 
